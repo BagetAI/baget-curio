@@ -1,0 +1,62 @@
+{
+  "suppliers": [
+    {
+      "Name": "The Mala Market",
+      "Region": "Sichuan/Guizhou, China",
+      "Specialty": "Facing Heaven Chiles, Sichuan Peppercorns",
+      "MOQ": "1kg",
+      "Unit_Cost": "$25.00/kg"
+    },
+    {
+      "Name": "Spice Jungle",
+      "Region": "USA (Michigan)",
+      "Specialty": "Aji Amarillo, Rare Global Chiles",
+      "MOQ": "1 lb",
+      "Unit_Cost": "$18.50/lb"
+    },
+    {
+      "Name": "Legacy Dive Exim",
+      "Region": "India",
+      "Specialty": "Organic Turmeric, Cardamom, Cumin",
+      "MOQ": "500kg",
+      "Unit_Cost": "$4.50/kg"
+    },
+    {
+      "Name": "XLD Flexible Packaging",
+      "Region": "China",
+      "Specialty": "Compostable High-Barrier Sachets",
+      "MOQ": "1000 units",
+      "Unit_Cost": "$0.12/unit"
+    }
+  ],
+  "influencers": [
+    {
+      "Handle": "@julius.roberts",
+      "Platform": "TikTok",
+      "Niche": "Farming/Cooking/Slow Food",
+      "Follower_Count": "476k",
+      "Status": "Identified"
+    },
+    {
+      "Handle": "@emilymariko",
+      "Platform": "TikTok",
+      "Niche": "Minimalist Cooking/Routine",
+      "Follower_Count": "12M",
+      "Status": "Identify Outreach"
+    },
+    {
+      "Handle": "@chefcita",
+      "Platform": "Instagram",
+      "Niche": "Mexican Home Cooking",
+      "Follower_Count": "250k",
+      "Status": "Outreach Started"
+    },
+    {
+      "Handle": "@joshuaweissman",
+      "Platform": "YouTube",
+      "Niche": "Professional Technique/DIY",
+      "Follower_Count": "8M",
+      "Status": "Target"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+// Database IDs generated for Curio
+// Waitlist: db_curio_waitlist_2026
+// Suppliers: db_curio_suppliers_2026
+// Influencers: db_curio_influencers_2026

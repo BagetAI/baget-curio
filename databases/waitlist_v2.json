@@ -1,0 +1,1 @@
+{"id":"db_curio_waitlist_2026","name":"Curio Waitlist","columns":[{"name":"email","type":"text"},{"name":"source","type":"text"},{"name":"timestamp","type":"text"}],"publicWrites":true,"publicReads":false}
