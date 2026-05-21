@@ -1,0 +1,1 @@
+{"id":"db_curio_suppliers_v1","name":"Curio Suppliers","columns":[{"name":"Name","type":"text"},{"name":"Region","type":"text"},{"name":"Specialty","type":"text"},{"name":"MOQ","type":"text"},{"name":"Unit_Cost","type":"text"}],"publicWrites":false,"publicReads":false}

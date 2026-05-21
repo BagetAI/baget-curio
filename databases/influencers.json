@@ -1,0 +1,1 @@
+{"id":"db_curio_influencers_v1","name":"Curio Influencer Outreach","columns":[{"name":"Handle","type":"text"},{"name":"Platform","type":"text"},{"name":"Niche","type":"text"},{"name":"Follower_Count","type":"text"},{"name":"Status","type":"text"}],"publicWrites":false,"publicReads":false}
